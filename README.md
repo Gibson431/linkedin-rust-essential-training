@@ -1,0 +1,1 @@
+# linkedin-rust-essential-training
